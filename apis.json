@@ -1,0 +1,76 @@
+{
+    "name": "Viafoura",
+    "description": "Experience the market-leading Viafoura audience engagement and development platform. Offering media, broadcast and entertainment brands user registration, comment moderation, analytics, push notifications and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1530-viafoura.jpg",
+    "tags": [
+        "audience",
+        "audience insights",
+        "community",
+        "community engagement",
+        "content",
+        "conversations",
+        "have api",
+        "moderation",
+        "monetization",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/viafoura\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Viafoura",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1530-viafoura.jpg",
+            "humanURL": "http:\/\/viafoura.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/viafoura-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.viafoura.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/viafoura.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/viafoura"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/viafoura"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/documentation.viafoura.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@viafoura.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/viafoura"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/viafoura"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/viafoura.com\/"
+        }
+    ]
+}
